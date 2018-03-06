@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="EL GOURMET" tvg-logo="" group-title="• MUNDO Y CULTURA",EL GOURMET
+http://tv.nousiptv.com:25462/live/martin/hsLDAc9ZrK/3206.ts
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="EL GOURMET" tvg-logo="" group-title="• MUNDO Y CULTURA",EL GOURMET
+http://tv.nousiptv.com:25462/live/martin/hsLDAc9ZrK/3206.ts
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="EL GOURMET (1080HQ)" tvg-logo="http://images.mi.tv/channels/mx_el-gourmet_m.png" group-title="• FULL HD (1080 HQ)",EL GOURMET (1080HQ)
+http://tv.nousiptv.com:25462/live/martin/hsLDAc9ZrK/4042.ts
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="MAS CHIC (1080 HQ)" tvg-logo="https://mitvstatic.com/channels/sv_mas-chic_m.png" group-title="• FULL HD (1080 HQ)",MAS CHIC (1080 HQ)
+http://tv.nousiptv.com:25462/live/martin/hsLDAc9ZrK/4047.ts
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="MAS CHIC." tvg-logo="http://images.mi.tv/channels/sv_mas-chic_m.png" group-title="• MUNDO Y CULTURA",MAS CHIC.
+http://tv.nousiptv.com:25462/live/martin/hsLDAc9ZrK/4124.ts
